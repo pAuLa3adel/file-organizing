@@ -1,0 +1,53 @@
+# ninja log v6
+31	264	7473384926265839	CMakeFiles/system_directory.dir/main.cpp.obj.ddi	cd2262c6073c1ba9
+264	296	7473384928594889	CMakeFiles/system_directory.dir/CXX.dd	864e097859dc7b36
+264	296	7473384928594889	C:/Users/PAULA/CLionProjects/system directory/cmake-build-debug/CMakeFiles/system_directory.dir/CXXModules.json	864e097859dc7b36
+298	986	7473384928937016	CMakeFiles/system_directory.dir/main.cpp.obj	73836b742b50c201
+264	296	7473384928594889	CMakeFiles/system_directory.dir/main.cpp.obj.modmap	864e097859dc7b36
+987	1120	7473384935819346	system_directory.exe	9b9bb1d1ed1cd4e4
+34	380	7473385383636582	CMakeFiles/system_directory.dir/main.cpp.obj.ddi	cd2262c6073c1ba9
+380	412	7473385387096819	CMakeFiles/system_directory.dir/CXX.dd	864e097859dc7b36
+380	412	7473385387096819	C:/Users/PAULA/CLionProjects/system directory/cmake-build-debug/CMakeFiles/system_directory.dir/CXXModules.json	864e097859dc7b36
+380	412	7473385387096819	CMakeFiles/system_directory.dir/main.cpp.obj.modmap	864e097859dc7b36
+413	1051	7473385387425926	CMakeFiles/system_directory.dir/main.cpp.obj	73836b742b50c201
+1051	1192	7473385393808848	system_directory.exe	9b9bb1d1ed1cd4e4
+47	888	7474004640009560	CMakeFiles/system_directory.dir/main.cpp.obj.ddi	cd2262c6073c1ba9
+888	934	7474004648419546	CMakeFiles/system_directory.dir/CXX.dd	864e097859dc7b36
+888	934	7474004648419546	C:/Users/PAULA/CLionProjects/system directory/cmake-build-debug/CMakeFiles/system_directory.dir/CXXModules.json	864e097859dc7b36
+888	934	7474004648419546	CMakeFiles/system_directory.dir/main.cpp.obj.modmap	864e097859dc7b36
+941	1562	7474004648948841	CMakeFiles/system_directory.dir/main.cpp.obj	73836b742b50c201
+1562	1742	7474004655162753	system_directory.exe	9b9bb1d1ed1cd4e4
+7	152	7474005038958700	CMakeFiles/system_directory.dir/main.cpp.obj.ddi	cd2262c6073c1ba9
+152	175	7474005040414785	CMakeFiles/system_directory.dir/CXX.dd	864e097859dc7b36
+152	175	7474005040414785	C:/Users/PAULA/CLionProjects/system directory/cmake-build-debug/CMakeFiles/system_directory.dir/CXXModules.json	864e097859dc7b36
+152	175	7474005040414785	CMakeFiles/system_directory.dir/main.cpp.obj.modmap	864e097859dc7b36
+176	634	7474005040644188	CMakeFiles/system_directory.dir/main.cpp.obj	73836b742b50c201
+634	724	7474005045232092	system_directory.exe	9b9bb1d1ed1cd4e4
+7	176	7474005954798152	CMakeFiles/system_directory.dir/main.cpp.obj.ddi	cd2262c6073c1ba9
+176	202	7474005956488192	CMakeFiles/system_directory.dir/CXX.dd	864e097859dc7b36
+176	202	7474005956488192	C:/Users/PAULA/CLionProjects/system directory/cmake-build-debug/CMakeFiles/system_directory.dir/CXXModules.json	864e097859dc7b36
+176	202	7474005956488192	CMakeFiles/system_directory.dir/main.cpp.obj.modmap	864e097859dc7b36
+6	161	7474006252448549	CMakeFiles/system_directory.dir/main.cpp.obj.ddi	cd2262c6073c1ba9
+161	183	7474006254004388	CMakeFiles/system_directory.dir/CXX.dd	864e097859dc7b36
+161	183	7474006254004388	C:/Users/PAULA/CLionProjects/system directory/cmake-build-debug/CMakeFiles/system_directory.dir/CXXModules.json	864e097859dc7b36
+161	183	7474006254004388	CMakeFiles/system_directory.dir/main.cpp.obj.modmap	864e097859dc7b36
+184	658	7474006254223809	CMakeFiles/system_directory.dir/main.cpp.obj	73836b742b50c201
+658	744	7474006258971121	system_directory.exe	9b9bb1d1ed1cd4e4
+7	126	7474013051028260	CMakeFiles/system_directory.dir/main.cpp.obj.ddi	cd2262c6073c1ba9
+127	147	7474013052225059	CMakeFiles/system_directory.dir/CXX.dd	864e097859dc7b36
+127	147	7474013052225059	C:/Users/PAULA/CLionProjects/system directory/cmake-build-debug/CMakeFiles/system_directory.dir/CXXModules.json	864e097859dc7b36
+127	147	7474013052225059	CMakeFiles/system_directory.dir/main.cpp.obj.modmap	864e097859dc7b36
+152	565	7474013052474376	CMakeFiles/system_directory.dir/main.cpp.obj	73836b742b50c201
+566	666	7474013056608756	system_directory.exe	9b9bb1d1ed1cd4e4
+6	186	7474014831494557	CMakeFiles/system_directory.dir/main.cpp.obj.ddi	cd2262c6073c1ba9
+186	210	7474014833289777	CMakeFiles/system_directory.dir/CXX.dd	864e097859dc7b36
+186	210	7474014833289777	C:/Users/PAULA/CLionProjects/system directory/cmake-build-debug/CMakeFiles/system_directory.dir/CXXModules.json	864e097859dc7b36
+186	210	7474014833289777	CMakeFiles/system_directory.dir/main.cpp.obj.modmap	864e097859dc7b36
+211	971	7474014833539099	CMakeFiles/system_directory.dir/main.cpp.obj	73836b742b50c201
+972	1089	7474014841152613	system_directory.exe	9b9bb1d1ed1cd4e4
+7	172	7474015012397866	CMakeFiles/system_directory.dir/main.cpp.obj.ddi	cd2262c6073c1ba9
+172	195	7474015014044758	CMakeFiles/system_directory.dir/CXX.dd	864e097859dc7b36
+172	195	7474015014044758	C:/Users/PAULA/CLionProjects/system directory/cmake-build-debug/CMakeFiles/system_directory.dir/CXXModules.json	864e097859dc7b36
+172	195	7474015014044758	CMakeFiles/system_directory.dir/main.cpp.obj.modmap	864e097859dc7b36
+196	964	7474015014284123	CMakeFiles/system_directory.dir/main.cpp.obj	73836b742b50c201
+964	1066	7474015021963578	system_directory.exe	9b9bb1d1ed1cd4e4

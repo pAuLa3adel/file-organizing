@@ -1,0 +1,5 @@
+# 0 "C:/Users/PAULA/CLionProjects/untitled/file handling.cpp"
+# 1 "C:\\Users\\PAULA\\CLionProjects\\untitled\\cmake-build-debug//"
+# 0 "<built-in>"
+# 0 "<command-line>"
+# 1 "C:/Users/PAULA/CLionProjects/untitled/file handling.cpp"
