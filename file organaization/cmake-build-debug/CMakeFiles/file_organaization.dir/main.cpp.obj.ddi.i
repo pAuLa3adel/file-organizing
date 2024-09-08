@@ -1,5 +1,0 @@
-# 0 "C:/Users/PAULA/CLionProjects/file organaization/main.cpp"
-# 1 "C:\\Users\\PAULA\\CLionProjects\\file organaization\\cmake-build-debug//"
-# 0 "<built-in>"
-# 0 "<command-line>"
-# 1 "C:/Users/PAULA/CLionProjects/file organaization/main.cpp"

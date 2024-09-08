@@ -1,5 +1,0 @@
-ninja_dyndep_version = 1.0
-build CMakeFiles/file_organaization.dir/main.cpp.obj: dyndep
-
-build CMakeFiles/file_organaization.dir/test.cpp.obj: dyndep
-
